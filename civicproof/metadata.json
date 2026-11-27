@@ -1,0 +1,6 @@
+{
+  "name": "CivicProof",
+  "description": "AI-Powered Civic Issue Management Agent — Your Voice. Your City. Your Proof.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
